@@ -2,7 +2,8 @@
 //CS1400,section - 04
 //Project 7 - Employee Inheritance
 //05-03-2021
-
+fafhsfdsk
+sdkfjks
 public class Employee
 {
    private String name;
