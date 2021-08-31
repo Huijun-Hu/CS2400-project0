@@ -21,7 +21,7 @@ public class WorkerTest
       System.out.println(worker2.toString()+"\n");
 
       System.out.println("Here's the third production worker.");
-      ProductionWorker worker3 = new ProductionWorker("Tony Gaddis", "41326", "1-23-2006", 0, 19.5);
+      ProductionWorker worker3 = new ProductionWorker("Tony A. Gaddis", "41326", "1-23-2006", 0, 19.5);
       System.out.println(worker3.toString()+"\n");
 
    }
